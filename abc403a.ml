@@ -1,5 +1,5 @@
 (*https://atcoder.jp/contests/abc403/tasks/abc403_a*)
-
+(*https://atcoder.jp/contests/abc403/submissions/65330939*)
 let n = read_int()
 
 let a = 
